@@ -5,7 +5,7 @@ using UnityEngine;
 public class movimiento_jugador : MonoBehaviour
 {   bool enSuelo; 
     public Rigidbody2D rb;
-    // Start is called before the first frame update
+    // Start is called before the first frame update312321
     void Start()
     {   
 
